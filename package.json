@@ -49,7 +49,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@octokit/rest": "16.7.0",
+    "@octokit/rest": "16.8.1",
     "@webpro/is-subdir": "1.0.0",
     "async-retry": "1.2.3",
     "babel-preset-env": "1.7.0",
